@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jamesowers-roo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jamesowers-roo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @jamesowers-roo...aka @jamesowers, aka @jamesowers-ch...sigh
 - 👀 I’m interested in machine learning and data science in general
